@@ -1,8 +1,29 @@
 /* your code here */
+footer{
+	position: fixed;
+	background: black;
+	width: 100%;
+	color: white;
+}
+.content{
+	
+}
+.top{
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly
+}
+.logo-details{
+	
+}
 .media-icons{
 	display: flex;
 }
+.media-icons a{
+	height: 40px;
+	width: 40px;
+	text-align: center;
+}
 .link-boxes{
-	display: flex;
-	
+	display: flex;	
 }
